@@ -7,7 +7,7 @@
 [![David](https://img.shields.io/david/idleberg/atom-build-ozc.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-ozc#info=dependencies)
 [![David](https://img.shields.io/david/dev/idleberg/atom-build-ozc.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-ozc?type=dev)
 
-[Atom Build](https://atombuild.github.io/) provider for `ozc`, compiles Oz. Supports the [linter](https://atom.io/packages/linter) package for error highlighting.
+[Atom Build](https://atombuild.github.io/) provider for `ozc`, compiles Oz
 
 ## Installation
 
