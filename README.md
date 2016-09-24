@@ -38,8 +38,8 @@ $ git clone https://github.com/idleberg/atom-build-ozc build-ozc
 Install Node dependencies:
 
 ```bash
-cd build-ozc
-npm install
+$ cd build-ozc
+$ npm install
 ```
 
 ## Usage
