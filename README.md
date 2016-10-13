@@ -17,7 +17,7 @@ Install `build-ozc` from Atom's [Package Manager](http://flight-manual.atom.io/u
 
 `$ apm install build-ozc`
 
-### GitHub
+### Using Git
 
 Change to your Atom packages directory:
 
