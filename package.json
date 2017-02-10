@@ -1,6 +1,6 @@
 {
   "name": "build-ozc",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "description": "Atom Build provider for ozc, compiles Oz",
   "repository": "https://github.com/idleberg/atom-build-ozc",
   "license": "MIT",
