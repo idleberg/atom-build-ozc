@@ -1,10 +1,10 @@
 # build-ozc
 
-[![apm](https://img.shields.io/apm/l/build-ozc.svg?style=flat-square)](https://atom.io/packages/build-ozc)
-[![apm](https://img.shields.io/apm/v/build-ozc.svg?style=flat-square)](https://atom.io/packages/build-ozc)
-[![apm](https://img.shields.io/apm/dm/build-ozc.svg?style=flat-square)](https://atom.io/packages/build-ozc)
+[![apm](https://flat.badgen.net/apm/license/build-ozc)](https://atom.io/packages/build-ozc)
+[![apm](https://flat.badgen.net/apm/v/build-ozc)](https://atom.io/packages/build-ozc)
+[![apm](https://flat.badgen.net/apm/dl/build-ozc)](https://atom.io/packages/build-ozc)
 [![CircleCI](https://flat.badgen.net/circleci/github/idleberg/atom-build-ozc)](https://circleci.com/gh/idleberg/atom-build-ozc)
-[![David](https://img.shields.io/david/idleberg/atom-build-ozc.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-ozc)
+[![David](https://flat.badgen.net/david/dev/idleberg/atom-build-ozc)](https://david-dm.org/idleberg/atom-build-ozc?type=dev)
 
 [Atom Build](https://atombuild.github.io/) provider for `ozc`, compiles Oz
 
